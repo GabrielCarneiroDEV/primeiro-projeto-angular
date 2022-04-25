@@ -29,6 +29,21 @@
       "name": "teste",
       "price": "20",
       "id": 6
+    },
+    {
+      "name": "teste",
+      "price": "9.99",
+      "id": 7
+    },
+    {
+      "name": "testando",
+      "price": "9.97",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "cadeira",
+      "price": "300"
     }
   ]
 }
